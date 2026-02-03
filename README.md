@@ -60,6 +60,7 @@ desafio_fake_natty/
 │
 ├── README.md
 └── requirements.txt
+````
 
 ## ⚙️ Como Rodar o Projeto
 
